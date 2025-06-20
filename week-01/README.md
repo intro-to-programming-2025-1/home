@@ -13,6 +13,7 @@ We'll dive into version control with Git, collaborate using GitHub, and get comf
 
 ## Links
 
+- [VS code](./materials/vs-code.md)
 - [Git installation](./materials/git-installation.md)
 - [Git intro](./materials/git-intro.md)
 - [GitHub intro](./materials/gitHub-intro.md)

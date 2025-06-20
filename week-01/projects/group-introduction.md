@@ -4,6 +4,10 @@ Create a short **Markdown introduction** and add it to your github account using
 
 ---
 
+## Template repo
+
+- [Template Repo](https://github.com/intro-to-programming-2025-1/markdown-template)
+
 ## ✅ Deliverable Checklist
 
 Copy and paste this into a new **Issue**, then move the issue to the project board.
