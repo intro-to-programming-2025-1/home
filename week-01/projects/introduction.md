@@ -13,9 +13,9 @@ Copy and paste this into a new **Issue**, then move the issue to the project boa
 - **Labels:** `individual`, `week-1`
 - **Milestone:** `week-1`
 
-```markdown
-- [ ] [Demo](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
-- [ ] [linked to my repo](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+```md
+- [Demo](https://docs.github.com/)
+- [linked my repo](https://docs.github.com/)
 ```
 
 ---
