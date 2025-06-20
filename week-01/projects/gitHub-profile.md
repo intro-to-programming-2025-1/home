@@ -1,4 +1,4 @@
-# 👤 Student Introduction
+# 👤 GitHub Profile
 
 Create a short **Markdown introduction** and add it to your github account using Git local/remote workflows.
 

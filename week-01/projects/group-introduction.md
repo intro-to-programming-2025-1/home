@@ -1,4 +1,4 @@
-# 👤 Student Introduction
+# 👤 Group Introduction
 
 Create a short **Markdown introduction** and add it to your github account using Git local/remote workflows.
 
